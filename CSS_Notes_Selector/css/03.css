@@ -1,0 +1,16 @@
+.texto{
+    background-color: aqua;
+
+}
+
+.azul{
+    color: rgb(82, 108, 156);
+}
+
+.mayusculas{
+    text-transform: uppercase;
+}
+
+.texto.mayusculas{
+    font-size: 10rem;
+}
